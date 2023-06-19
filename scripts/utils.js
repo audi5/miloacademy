@@ -11,7 +11,7 @@
  */
 
 /**
- * The decision engine for where to get Milo's libs from. Audi
+ * The decision engine for where to get Milo's libs from.
  */
 export const [setLibs, getLibs] = (() => {
   let libs;
