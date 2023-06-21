@@ -6,7 +6,8 @@
       "environments": [
         "dev",
         "preview",
-        "live"
+        "live",
+        "edit"
       ],
       "event": "academy"
     },
